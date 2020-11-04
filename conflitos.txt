@@ -1,1 +1,1 @@
-Arquivo de texto para a Atividade Git Conflitos
+Arquivo de texto para a Atividade Git Conflitos sendo alterado pela primeira vez após sua versão inicial.
