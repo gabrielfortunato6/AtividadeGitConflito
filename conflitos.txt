@@ -1,2 +1,6 @@
+conflitos
+1- Arquivo de texto para a Atividade Git Conflitos sendo alterado pela primeira vez após sua versão inicial.
+
 Arquivo de texto para a Atividade Git Conflitos
-Um novo parágrafo está sendo adicionado ao arquivo.
+2- Um novo parágrafo está sendo adicionado ao arquivo.
+master
